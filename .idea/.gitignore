@@ -2,7 +2,9 @@
 /shelf/
 /workspace.xml
 # Datasource local storage ignored files
-/../../../../../../:\Users\Shubham\IdeaProjects\untitled\.idea/dataSources/
+
+/../../../../../../:\Users\Shubham\IdeaProjects\LeetCodeTopInterviewQuestions\.idea/dataSources/
+
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
