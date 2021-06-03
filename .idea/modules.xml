@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/.idea/LeetCodeTopInterviewQuestions.iml" filepath="$PROJECT_DIR$/.idea/LeetCodeTopInterviewQuestions.iml" />
-=======
+
       <module fileurl="file://$PROJECT_DIR$/Top Interview Questions.iml" filepath="$PROJECT_DIR$/Top Interview Questions.iml" />
->>>>>>> First Code push
+
     </modules>
   </component>
 </project>
